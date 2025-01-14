@@ -1,7 +1,7 @@
 <?php
 $db_host = "localhost";
 $db_user = "root";
-$db_pass = ""; // Password kosong
+$db_pass = "adam"; // Password kosong
 $db_name = "data_diri";
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
